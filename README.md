@@ -1,6 +1,6 @@
 # CyberIntern-Task8
 
-#  Task 8 - VPN Setup and Privacy (Cyber Security Internship)
+#  Task 8 - VPN Setup and Privacy 
 
 ##  Objective
 The objective of this task is to gain **hands-on experience with Virtual Private Networks (VPNs)**, understand how they work, and evaluate their effectiveness in securing communication and protecting privacy.
